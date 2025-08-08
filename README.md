@@ -17,7 +17,7 @@ Eat and Split is a simple and user-friendly application that helps users split m
 ## Technologies Used
 
 - React 
-- JavaScript / TypeScript  
+- JavaScript 
 - CSS 
 
 ---
